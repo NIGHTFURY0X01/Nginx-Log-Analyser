@@ -4,6 +4,10 @@ A simple Bash-based command-line tool for analyzing Nginx access logs.
 
 This project was created to practice basic shell scripting and common Unix command-line utilities such as `awk`, `sort`, `uniq`, `head`, `grep`, and `sed`.
 
+This project is part of the roadmap.sh DevOps projects.
+
+[Project URL](https://roadmap.sh/projects/nginx-log-analyser)
+
 ## Features
 
 The analyzer reads an Nginx access log and reports:
